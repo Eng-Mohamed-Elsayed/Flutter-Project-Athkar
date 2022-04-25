@@ -1,16 +1,33 @@
-# project_the_hope
+# Athkar
 
-A new Flutter project.
+<div>
+  
+###  Name : Arwa Nasser
 
-## Getting Started
+## Mark :
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<table>
+  <tr>
+      <th>UI(50)</td>  
+      <th>Code(30)</td>  
+      <th>Idea(20)</td>  
+      <th>Total(100)</td>  
+  </tr>
+  <tr>
+      <td>50</td>  
+      <td>30</td>  
+      <td>20</td>  
+      <td>100</td>  
+  </tr>
+<table>
+  
+  ### ScreenShots
+  <div>
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppMusic-islamic/blob/master/assets/screenshots/1.png" width="150" height="300">
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppMusic-islamic/blob/master/assets/screenshots/2.png" width="150" height="300">
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppMusic-islamic/blob/master/assets/screenshots/3.png" width="150" height="300" >
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppMusic-islamic/blob/master/assets/screenshots/4.png" width="150" height="300" >
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppMusic-islamic/blob/master/assets/screenshots/5.png" width="150" height="300" >
+    <img src="https://github.com/Eng-Mohamed-Elsayed/Flutter-AppMusic-islamic/blob/master/assets/screenshots/6.png" width="150" height="300" >
+   
+  </div>
